@@ -1,7 +1,7 @@
 # Slate & Pencil Tutoring Website
 
 ## Overview
-This repository contains a tutoring services website developed as part of my coursework while pursuing a Bachelor of Business Administration in Information Systems and Technology (IST) at Cleveland State University.
+This repository contains a tutoring services website developed as part of my coursework while pursuing a Bachelor of Business Administration in Information Systems and Technology (IST).
 
 The website promotes an online tutoring service and demonstrates modern web development concepts including CSS Grid layouts, navigation systems, content organization, and testimonial sections.
 
